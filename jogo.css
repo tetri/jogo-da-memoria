@@ -40,6 +40,11 @@ body {
   transform: rotateY(180deg);
 }
 
+.disable img.front-face {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
 .front-face,
 .back-face {
   width: 100%;
@@ -47,10 +52,14 @@ body {
   padding: 20px;
   position: absolute;
   border-radius: 10px;
-  background: #666666;
   backface-visibility: hidden;
 }
 
 .front-face {
   transform: rotateY(180deg);
+  background: #666;
+}
+
+.back-face {
+  background: #565656;
 }
