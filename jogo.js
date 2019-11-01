@@ -107,7 +107,7 @@ times.push(new Time("Grêmio Football Portoalegrense", "gremio"));
 times.push(new Time("Íbis", "ibis"));
 times.push(new Time("Internacional", "internacional"));
 times.push(new Time("Palmeiras", "palmeiras"));
-times.push(new Time("Vasco", "vasco"));
+//times.push(new Time("Vasco", "vasco"));
 times.push(new Time("Santos", "santos"));
 times.push(new Time("Athletico Paranaense", "atletico-paranaense"));
 times.push(new Time("Botafogo", "botafogo"));
