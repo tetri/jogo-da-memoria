@@ -5,7 +5,7 @@
 [![Tamanho do código](https://img.shields.io/github/repo-size/tetri/jogo-da-memoria)](https://github.com/tetri/jogo-da-memoria)
 [![Linguagens](https://img.shields.io/github/languages/count/tetri/jogo-da-memoria)](https://github.com/tetri/jogo-da-memoria)
 
-Um jogo da memória divertido e interativo desenvolvido com [tecnologias usadas - ex: HTML, CSS, JavaScript].
+Um jogo da memória de times de futebol divertido e interativo desenvolvido com HTML, CSS e JavaScript.
 
 ## 🚀 Como Jogar
 
@@ -16,7 +16,7 @@ Um jogo da memória divertido e interativo desenvolvido com [tecnologias usadas 
 2. Abra o arquivo `index.html` no seu navegador
 3. Clique nas cartas para encontrar os pares!
 
-## ✨ Recursos
+## ✨ Recursos em análise
 
 - [ ] Níveis de dificuldade
 - [ ] Contador de movimentos
